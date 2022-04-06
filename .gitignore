@@ -1,0 +1,6 @@
+.github
+.vscode
+_pycache_
+runs
+img
+pred_o
